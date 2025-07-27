@@ -1,0 +1,5 @@
+# Example environment variables
+AIRTABLE_API_KEY=your_airtable_api_key
+RAINDROP_API_TOKEN=your_raindrop_api_token
+N8N_HOST=https://your-n8n-instance.com
+OPENAI_API_KEY=your_openai_api_key
